@@ -38,9 +38,7 @@ public class exercise4 {
 				}		
 			}
 		}
-		
-		
-		
+			
 		sc.close();
 		
 	}
